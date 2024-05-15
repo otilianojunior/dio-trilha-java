@@ -1,4 +1,4 @@
-package one.digitalinovation.desafios.IphoneUml.src.apps;
+package one.digitalinovation.desafios.IphoneUml.apps;
 import apps.navegadores.NavegadorInternet;
 import apps.players.ReprodutorMusical;
 import apps.callCenter.AparelhoTelefonico;

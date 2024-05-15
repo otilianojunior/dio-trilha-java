@@ -1,4 +1,4 @@
-package one.digitalinovation.desafios.ContaBanco.src;
+package one.digitalinovation.desafios.ContaBanco;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;

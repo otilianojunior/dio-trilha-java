@@ -1,4 +1,5 @@
-package one.digitalinovation.desafios.DesafioControleFluxo.src;
+package one.digitalinovation.desafios.DesafioControleFluxo;
+
 import java.util.Scanner;
 
 public class Contador {

@@ -28,4 +28,4 @@ Com base no vídeo de lançamento do iPhone conforme link abaixo, elabore em uma
 Este diagrama UML ilustra a organização de classes e interfaces para um sistema que abrange a modelagem do iPhone, de acordo com as diretrizes estabelecidas pelo desafio na DIO.
 ![iPhoneUML.png](iPhoneUML.png)
 
-* Para executar basta 'rodar' run a classe: [Iphone.java](src%2FIphone.java).
+* Para executar basta 'rodar' run a classe: [one.digitalinovation.desafios.IphoneUml.Iphone.java](src%2FIphone.java).

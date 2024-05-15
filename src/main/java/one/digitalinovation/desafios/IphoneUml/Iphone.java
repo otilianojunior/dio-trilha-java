@@ -1,8 +1,9 @@
+package one.digitalinovation.desafios.IphoneUml;
 
 import apps.navegadores.NavegadorInternet;
 import apps.players.ReprodutorMusical;
 import apps.callCenter.AparelhoTelefonico;
-import one.digitalinovation.desafios.IphoneUml.src.apps.IphoneApps;
+import one.digitalinovation.desafios.IphoneUml.apps.IphoneApps;
 
 public class Iphone {
     private NavegadorInternet navegador;
