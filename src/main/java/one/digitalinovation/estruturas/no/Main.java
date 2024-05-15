@@ -1,4 +1,4 @@
-package com.projeto.no;
+package one.digitalinovation.estruturas.no;
 
 public class Main {
     public static void main(String[] args) {

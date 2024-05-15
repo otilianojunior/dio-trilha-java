@@ -1,4 +1,4 @@
-package com.dio.atribuicaoreferencia;
+package one.digitalinovation.estruturas.objeto;
 
 public class MeuObjt {
     Integer num;
